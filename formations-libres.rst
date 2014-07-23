@@ -1,3 +1,6 @@
+Le savoir est une arme, son partage plus encore.
+################################################
+
 L’ensemble des contenus de ce classeur  est diffusé sous une licence libre, à
 moins qu’il ne soit explicitement indiqué le contraire. Il faut savoir qu’en
 France (comme quasiment partout ailleurs dans le monde) les œuvres
@@ -82,7 +85,7 @@ http://creativecommons.org/licenses/by-sa/4.0/deed.fr
 
 Pour en savoir plus sur les licences Creative Commons, suivez ce lien : http://creativecommons.org/
 
-*Le savoir est une arme, son partage plus encore.*
+**Le savoir est une arme, son partage plus encore.**
 
 Ce texte est publié sous la licence Attribution – Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0)
 — http://creativecommons.org/licenses/by-sa/4.0/
