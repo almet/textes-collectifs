@@ -63,9 +63,8 @@ diffusés largement. Sans cela, ils seront automatiquement sujets au régime du
 droit d'auteur.
 
 En fait, le procédé pour l'appliquer est juridiquement astucieux: il suffit
-d’utiliser le système du copyright© pour le  détourner en apposant un copyright
-et en décrivant quelle est la  licence que l’on souhaite donner à notre
-création.
+d’utiliser le système du copyright (©) et de le détourner, en décrivant quelle
+est la licence que l’on souhaite donner à notre création.
 
 Par exemple, ce texte a été rédigé par un groupe de personnes qui détiennent
 donc son copyright. Il nous suffit d'y attacher les conditions qui importent,
